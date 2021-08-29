@@ -5,7 +5,7 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   box-sizing: border-box;
   background: deeppink;
-  font-size: 10px;
+  font-size: 16px;
 }
 
 .flex-container {
@@ -34,4 +34,11 @@ body {
   background: navy;
   color: white;
   text-align: center;
+}
+
+.outer-flex {
+  color: white;
+}
+.inner-p {
+  background: black;
 }
