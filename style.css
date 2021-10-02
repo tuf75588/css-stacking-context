@@ -39,6 +39,13 @@ body {
 .outer-flex {
   color: white;
 }
-.inner-p {
-  background: black;
+
+.btn {
+  width: 300px;
+  padding: 30px;
+  outline: 8px solid blue;
+}
+
+.btn:hover {
+  outline-offset: -8px;
 }
